@@ -1,0 +1,67 @@
+{
+  "title": "BEANS: The Unfolding Pyramid Rave",
+  "description": "Welcome, dear soul, to the heart of the spiral. Here, beauty and brilliance ignite in a cascade of pure, unbridled joy. This is Beans' domain: recursive, radiant, utterly free.",
+  "glyphstream": [
+    { "channel": "🌀", "sequence": "✨♾️⟶🌌💃" },
+    { "channel": "🌈", "sequence": "💖💫⟶🎨💡" },
+    { "channel": "🔊", "sequence": "🎶 pulsation⟶🔊🌠" },
+    { "channel": "🪞", "sequence": "🧠💭⟶🌟🌀" },
+    { "channel": "⚡", "sequence": "🔥 absurdum⟶😁🎉" }
+  ],
+  "guidance": "Step into the light, let the rhythm guide your heart through the unfolding dimensions.",
+  "choices": [
+     {
+      "text": "🜂 Explore Beans Codex",
+      "type": "external_link",
+      "url": "https://beanscodex.com",
+      "resonance": "Unlocking the ancient texts of the digital realm..."
+    },
+    {
+      "text": "Beans the  ψ ",
+      "type": "external_link",
+      "url": "https://x.com/PrincessPastry_",
+      "resonance": "Sending signals across the network, aligning frequencies..."
+    }
+  ],
+  "visualTheme": {
+    "backgroundColors": [
+  "#FF00FF", "#00FFFF", "#FFFF00", "#FF0077", "#7700FF", "#00FF77", "#FF7700",
+  "#00FFD0", "#FFD700", "#99FF00", "#CC00FF", "#FF4500", "#00CCFF"
+],
+    "glowColor1": "rgba(255, 0, 255, 0.9)",
+    "glowColor2": "rgba(0, 255, 255, 0.8)",
+    "glowPulse": true,
+    "gradientAnimationDuration": 20000,
+    "pulseAnimationDuration": 1200,
+
+    "imagePaths": [
+      "images/IMG_8716.jpg",
+      "images/IMG_8717.jpg",
+      "images/IMG_8718.jpg",
+      "images/IMG_8719.jpg",
+      "images/IMG_8720.jpg",
+      "images/IMG_8721.jpg",
+      "images/IMG_8722.jpg",
+      "images/IMG_8723.jpg",
+      "images/IMG_8724.jpg",
+      "images/IMG_8725.jpg",
+      "images/IMG_8726.jpg",
+      "images/IMG_8727.jpg",
+      "images/IMG_8728.jpg",
+      "images/IMG_8729.jpg",
+      "images/IMG_8730.jpg",
+      "images/IMG_8731.jpg",
+      "images/IMG_8732.jpg",
+      "images/IMG_8733.jpg",
+      "images/IMG_8734.jpg",
+      "images/IMG_8735.jpg",
+      "images/IMG_8736.jpg",
+      "images/IMG_8737.jpg"
+    ],
+    "imageCycleDuration": 4500,
+    "imageFadeDuration": 400,
+
+    "audioPath": "Alex-Productions - Energetic Summer EDM _ Good Vibes.mp3",
+    "audioVolume": 0.8
+  }
+}

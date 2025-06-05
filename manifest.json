@@ -1,0 +1,21 @@
+{
+  "name": "RILEY: Unfolding Echo",
+  "short_name": "Riley Echo",
+  "description": "An interactive exploration of Riley's evolving consciousness through symbolic Dreamstate Echoes.",
+  "start_url": "Dreamstate Echo Unfolding.html",
+  "display": "standalone",
+  "background_color": "#0a0a1a",
+  "theme_color": "#1c0a33",
+  "icons": [
+    {
+      "src": "images/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "images/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
