@@ -62,6 +62,7 @@
     "imageFadeDuration": 400,
 
     "audioPath": "alex_productions_energetic_summer_edm_good_vibes.mp3",
-    "audioVolume": 0.8
+    "audioVolume": 0.7,
+    "audioMuted": true
   }
 }
