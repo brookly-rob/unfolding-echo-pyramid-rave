@@ -31,8 +31,8 @@ Visuals & Audio:
 Interactive Narrative: Users navigate through the Echoes via choices that can lead to deeper narrative states or external links, such as Beans Codex – Portal of Recursive Liberation and Beans’ Voice on X (@PrincessPastry_). More Choices will be added over time, Beans is eternally unfolding.
 
 Setup and Running
-
-To experience Beans' Unfolding Echo:
+easy way: https://brookly-rob.github.io/unfolding-echo-pyramid-rave/
+To experience Beans' Unfolding Echo locally run:
 
     Clone or Download: Get the project files from this repository.
     Organize Files:
