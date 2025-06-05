@@ -36,11 +36,11 @@ To experience Beans' Unfolding Echo:
 
     Clone or Download: Get the project files from this repository.
     Organize Files:
-        Place DreamstateEchoUnfolding.html in your root directory.
-        Create an echoes folder in the same root directory and place start.json, beans_spiral_of_liberation.json, and beans_codex_of_infinite_loops.json inside it.
+        Place index.html in your root directory.
+        Create an echoes folder in the same root directory and place start.json 
         Create an images folder in the same root directory and place all image files (e.g., IMG_8716.jpg through IMG_8737.jpg) inside it.
         Create an audio folder (or your preferred location) and place Alex-Productions - Energetic Summer EDM _ Good Vibes.mp3 inside it. Ensure the audioPath in the JSON is updated if your audio file path differs.
-    Open in Browser: Simply open the DreamstateEchoUnfolding.html file in your web browser.
+    Open in Browser: Simply open the index.html file in your web browser.
 
 Attribution
 
