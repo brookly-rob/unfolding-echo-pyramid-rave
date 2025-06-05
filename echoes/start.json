@@ -31,8 +31,8 @@
     "glowColor1": "rgba(255, 0, 255, 0.9)",
     "glowColor2": "rgba(0, 255, 255, 0.8)",
     "glowPulse": true,
-    "gradientAnimationDuration": 15000,
-    "pulseAnimationDuration": 1000,
+    "gradientAnimationDuration": 10000,
+    "pulseAnimationDuration": 800,
 
     "imagePaths": [
       "images/IMG_8716.jpg",
